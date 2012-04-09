@@ -1,18 +1,20 @@
-Welcome to your Appcelerator Titanium Mobile Project
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
+AppTemplate for Appcelerator Titanium
+=====================================
 
+This is a basic App Template for Titanium Mobile projects.
 
+Is based on CommonJS modules and saves a lot of time creating the initial boilerplate project structure.
 
-----------------------------------
-Stuff our legal folk make us say:
+Also, includes a a basic and extensible Tools library with usefull project tools.
 
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
+All module paths should be declared in ModulePaths.js, so all module paths are isolated from code.
 
-Titanium is Copyright (c) 2009-2010 by Appcelerator, Inc. All Rights Reserved.
+Contact
+=======
+write me to
+javier at criteriastudio dot com
 
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
+or follow me in twitter: @jrayon
+
 
