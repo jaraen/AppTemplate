@@ -1,9 +1,8 @@
 /**
- * Criteria Studio, july 2011
+ * Criteria Studio, 2012
  */
 
-(function(){
-	App.config = {
-		name:''
-	};
-})();
+module.exports = {
+	name:"",
+	server:""
+}

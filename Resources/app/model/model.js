@@ -1,3 +1,3 @@
 
 
-App.model = {};
+module.exports = {};
