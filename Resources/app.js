@@ -1,9 +1,14 @@
 
 
 
-var Mods = require('/ModulePaths');
+(function(){
+	
+	var Mods = require('/ModulePaths');
 
-var AppWindow = require(Mods.APPWINDOW);
+	var AppWindow = require(Mods.APPWINDOW);
+	
+	var win = new AppWindow();
+	
+	win.open();
 
-var win = new AppWindow();
-win.open();
+})();
